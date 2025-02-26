@@ -47,7 +47,7 @@ const Contactmap = () => {
               {t("mail")}
             </h3>
             <span className="text-graybg font-helony w-full text-[5vw] leading-[5vw] md:text-[1.2vw] md:leading-6 md:w-[80%]">
-              <Link href={'mailto:atencionalcliente@grupo-ortiz.com'}  className="hover:underline">atencionalcliente@grupo-ortiz.com</Link>
+              <Link href={'mailto:atencionacliente@grupo-ortiz.com'}  className="hover:underline">atencionacliente@grupo-ortiz.com</Link>
             </span>
           </div>
         </div>

@@ -20,8 +20,8 @@ const Footer = ({locale}) => {
               </Link>
               <ul className="text-gray-500 font-medium flex flex-col">
                   <li className="mb-2 md:mb-4">
-                    <Link href="mailto:atencionalcliente@grupo-ortiz.com" className="hover:underline text-whitesecondary">
-                      atencionalcliente@grupo-ortiz.com
+                    <Link href="mailto:atencionacliente@grupo-ortiz.com" className="hover:underline text-whitesecondary">
+                      atencionacliente@grupo-ortiz.com
                     </Link>
                   </li>
                   <li className="mb-2 md:mb-4">

@@ -1,0 +1,55 @@
+.mySwiper-Impacto .swiper-pagination {
+    left: 0 !important;
+    bottom: 10% !important;
+  }
+  
+  .mySwiper-Impacto .swiper-pagination-bullet {
+    width: 7vw !important;
+    height: 0.6vw !important;
+  }
+  
+  /* sm: min-width 640px */
+  @media (min-width: 640px) {
+    .mySwiper-Impacto .swiper-pagination {
+      left: 0 !important; /* Ajusta la posición en pantallas pequeñas */
+    }
+    .mySwiper-Impacto .swiper-pagination-bullet {
+      width: 5vw; /* Ajusta el ancho */
+      height: 0.6vw; /* Ajusta la altura */
+    }
+  }
+  
+  /* md: min-width 768px */
+  @media (min-width: 768px) {
+    .mySwiper-Impacto .swiper-pagination {
+      left: 0% !important; /* Ajusta la posición */
+      bottom: 5% !important;
+    }
+    .mySwiper-Impacto .swiper-pagination-bullet {
+      width: 5vw; /* Ajusta el ancho */
+      height: 0.6vw; /* Ajusta la altura */
+    }
+  }
+  
+  /* lg: min-width 1024px */
+  @media (min-width: 1024px) {
+    .mySwiper-Impacto .swiper-pagination {
+      left: -10% !important; /* Ajusta la posición */
+    }
+    .mySwiper-Impacto .swiper-pagination-bullet {
+      width: 4vw !important; /* Ajusta el ancho */
+      height: 0.2vw !important; /* Ajusta la altura */
+    }
+  }
+  
+  /* xl: min-width 1280px */
+  @media (min-width: 1280px) {
+    .mySwiper-Impacto .swiper-pagination {
+      left: -12% !important; /* Ajusta la posición */
+    }
+    .mySwiper-Impacto .swiper-pagination-bullet {
+      width: 3vw; /* Ajusta el ancho */
+      height: 0.2vw; /* Ajusta la altura */
+    }
+  }
+  

@@ -1,0 +1,246 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "social commitment": "Social Impact",
+    "go catalog": "GO Catalog",
+    "promos": "Promotions",
+    "be distributor": "Become a Distributor",
+    "contact us": "Contact Us",
+    "spanish": "Español",
+    "english": "English",
+    "portugues": "Portugués",
+    "aleman": "Deutsch",
+    "arabe": "العربية",
+    "mandarin": "普通话",
+    "conect": "Connect with Us",
+    "legend": "WE ARE THE LARGEST MANUFACTURER IN LATIN AMERICA",
+    "language": "Language"
+  },
+  "Hero": {
+    "hero-title-1": "WE ARE THE",
+    "hero-title-2": "LARGEST",
+    "hero-title-3": "MANUFACTURER IN",
+    "hero-title-4": "LATIN AMERICA"
+  },
+  "Services": {
+    "arpillas": "Mesh Bags",
+    "bolsa": "Bag",
+    "cuerdas": "Ropes",
+    "deshechables": "Disposables",
+    "esquineros": "Edge Protectors",
+    "fleje": "Strap",
+    "flexibles": "Flexible Packaging",
+    "rafia": "Rafia",
+    "sacos": "Woven Bags",
+    "stretch": "Stretch Film",
+    "prox": "Coming Soon",
+    "contact us": "Contact Us",
+    "contactoMich": "Michoacán Contact",
+    "contactoNL": "Nuevo León Contact"
+  },
+  "Quote": {
+    "Quote-1": "220 THOUSAND TONS",
+    "Quote-2": "ANNUALLY"
+  },
+  "Distribuidor": {
+    "h3-p1": "BECOME A",
+    "h3-p2": "DISTRIBUTOR",
+    "cta": "Learn More",
+    "cta-p": "We offer a wide range of products to meet the needs of various sectors: agriculture, industry, construction, hardware, and more.",
+    "span-1": "We are the largest manufacturer in Latin America",
+    "span-2": "Safe and monitored shipping worldwide",
+    "span-3-1": "10 production plants located in Morelia",
+    "span-3-2": "Michoacán and Monterrey, Nuevo León"
+  },
+  "Number": {
+    "span-1": "LOGISTICS",
+    "span-2": "UNITS"
+  },
+  "Footer": {
+    "acerca de": "About Grupo Ortiz",
+    "responsabilidad": "Social Impact",
+    "reserved": "All rights reserved.",
+    "ser-dist": "Become a Distributor",
+    "att-client": "Customer Service",
+    "catalog": "Catalog",
+    "terms": "Terms and Conditions",
+    "privacy": "Privacy Notice",
+    "promos": "Promotions",
+    "datasheet": "Data Sheets",
+    "soporte": "Support",
+    "garantias": "Warranties"
+  },
+  "About-page": {
+    "h1-1": "Who",
+    "h1-2": "we are",
+    "p": "We are a Mexican company with 6 divisions: net bags, rope, flexible materials, raffia, bags, stretch film, and edge protectors. We are constantly growing with new products under development.",
+    "link": "OUR CATALOGS",
+    "item-1": "Delivery within 24 hours.",
+    "item-2": "25,000 tons of inventory.",
+    "item-3": "More than 4,000 employees.",
+    "item-4": "Years of experience.",
+    "link1-1": "Discover all our",
+    "link1-2": "catalogs",
+    "link2-1": "Contact us",
+    "link2-2": "and let’s grow together!"
+  },
+  "Data": {
+    "data-1": "4 sack production plants",
+    "data-2": "2 bag production plants",
+    "data-3": "1 rope and raffia production plant",
+    "data-4": "2 stretch film production plants",
+    "data-5": "1 flexible packaging production plant",
+    "data-6": "1 recycling plant",
+    "data-7": "3 edge protector plants",
+    "data-8": "1 strapping plant",
+    "data-9": "1 disposables production plant",
+    "data-10": "1 bag production plant"
+  },
+  "Map": {
+    "span-1": "With strategic locations in Morelia, Michoacán, and Monterrey, Nuevo León, meeting the needs of both national and international markets.",
+    "span-2": "We export our products across America and Europe."
+  },
+  "Impacto-social": {
+    "h2-1": "SOCIAL",
+    "h2-2": "IMPACT",
+    "span": "At Grupo Ortiz, we believe in a better world. We support homes, empower women, give second chances, and care for the planet. Every step we take aims to transform lives and build a future full of hope.",
+    "inic-1": "House of Hope",
+    "p-1": "Support for a foster home in Tacámbaro, Michoacán. Because every child deserves a home full of love and opportunities to grow with dignity.",
+    "inic-2": "Zero Footprint",
+    "p-2": "Zero waste policy. Transforming waste into opportunities for a cleaner and more sustainable planet.",
+    "inic-3": "Living Compost",
+    "p-3": "Manufacturing compostable products. Innovation that respects nature and nurtures a greener tomorrow for all.",
+    "inic-4": "GO Shines",
+    "p-4": "Performance rewards for the GO team. Recognizing the effort that sparks the flame of our shared success.",
+    "inic-5": "Hands that Lead",
+    "p-5": "97% female workforce. Empowering women who build a future full of possibilities day by day.",
+    "inic-6": "Reintegration of Inmates",
+    "p-6": "Reintegration of inmates working at GO from prison. Creating paths of redemption and hope for those seeking to rebuild their lives.",
+    "inic-7": "GO Pantry: United for the Community",
+    "p-7": "Delivery of food packages to the GO team. We extend a helping hand, starting with our collaborators, sharing what we have with love.",
+    "ocean-1": "COMMITTED TO AN",
+    "ocean-2": "OCEAN FREE OF PLASTICS",
+    "ocean-p": "At Grupo Ortiz, we believe in a world where oceans shine again. By supporting global initiatives like The Ocean Cleanup and the Tom Ford Plastic Innovation Prize powered by Lonely Whale, we work to reduce plastic in our seas. Every purchase you make with us is a step toward a cleaner planet and a sustainable future for everyone. Together, we save the oceans!",
+    "ocean-1-sm": "Committed to a",
+    "ocean-2-sm": "cleaner future",
+    "ocean-3-sm": "for our oceans",
+    "icon-title-1": "We support global cleanups",
+    "icon-subtitle-1": "Collaborating with initiatives like The Ocean Cleanup",
+    "icon-title-2": "We promote sustainable innovation",
+    "icon-subtitle-2": "Through programs like the Tom Ford Plastic Innovation Prize.",
+    "icon-title-3": "We encourage responsible products",
+    "icon-subtitle-3": "that reduce environmental impact on oceans.",
+    "icon-title-4": "We inspire collective action",
+    "icon-subtitle-4": "inviting customers and partners to join the change for a cleaner planet.",
+    "tom-ford-p": "This global initiative aims to revolutionize the plastics industry by awarding and promoting innovative solutions to replace disposable plastics. It focuses on sustainable and scalable alternatives that reduce environmental impact, protect the oceans, and encourage a shift toward more responsible materials for the planet.",
+    "know-more": "LEARN MORE",
+    "ocean-clean-p": "Dedicated to cleaning the world's oceans, this organization develops advanced technology to remove accumulated plastics from the seas and prevent their entry by intervening in rivers, the main sources of pollution. Its mission is to restore the health of marine ecosystems, protect biodiversity, and ensure a clean future for generations to come."
+  },
+  "ser-distribuidor": {
+    "h2-1": "I WANT TO BE",
+    "h2-2": "A DISTRIBUTOR",
+    "form-title": "Contact us",
+    "form-subtitle": "We want to hear from you",
+    "phone": "Phone number",
+    "mail": "Email",
+    "socials": "Social Media",
+    "location": "Corporate Address",
+    "h3-1": "Benefits of a",
+    "h3-2": "Distributor",
+    "benefit-1": "Tons of inventory",
+    "benefit-2": "Delivery within 24 hours",
+    "benefit-3": "Credit",
+    "benefit-4": "Guaranteed Price",
+    "benefit-5": "Logistics",
+    "adress": "Calle Belisario Domínguez #30, Col. Centro Morelia, Mich",
+    "follow-us": "Follow us"
+  },
+  "Distribuidor-quote": {
+    "Quote": "JOIN AS A DISTRIBUTOR AND LET'S GROW TOGETHER."
+  },
+  "Form": {
+    "aviso": "All fields are required*",
+    "name": "Full name*",
+    "phone": "Contact mobile*",
+    "phone-2": "Landline*",
+    "location": "Address*",
+    "city": "City or municipality*",
+    "state": "State*",
+    "zipcode": "Postal code*",
+    "coments": "Comments",
+    "priv-1": "Consult our",
+    "priv-2": "Privacy Notice",
+    "legend": "I have read and accept the data protection law",
+    "send": "Send",
+    "sending": "Sending...",
+    "country": "Country",
+    "select-country": "Select Country",
+    "area-code": "Área Code"
+  },
+  "Catalogos": {
+    "h1-1": "GO",
+    "h1-2": "CATALOGS",
+    "h2-1": "General Catalog",
+    "arpillas": "Mesh Bag",
+    "bolsa": "Bag",
+    "cuerdas": "Rope",
+    "deshechables": "Disposables",
+    "esquineros": "Edge Protectors",
+    "fleje": "Fleje",
+    "flexibles": "Flexible Packaging",
+    "rafia": "Twine",
+    "sacos": "Woven Bag",
+    "stretch": "Stretch Film"
+  },
+  "Promos": {
+    "h1-1": "PROMOTIONS",
+    "desc-1": "$33 PER KG IN COLORED STRETCH",
+    "cond-1": "Valid until stock lasts*",
+    "desc-2": "$33 PER KG IN COLORED STRETCH",
+    "cond-2": "Valid until stock lasts*"
+  },
+  "AvisoPriv": {
+    "h1-1": "Privacy",
+    "h1-2": "Notice",
+    "p1": "For Grupo Ortiz, your privacy and trust are of utmost importance. As part of our commitment, we implement legal and security measures to protect your personal data in accordance with the Federal Law on Protection of Personal Data Held by Private Parties, published in the Official Gazette on July 5, 2010, as well as its Regulations and Privacy Notice Guidelines. This document aims to regulate the legitimate, controlled, and informed use of the personal data you provide us, ensuring your privacy.",
+    "p2": "Please read the following information carefully:",
+    "sectionI": {
+      "title": "I. RESPONSIBLE PARTY FOR YOUR PERSONAL DATA",
+      "content": "The party responsible for the processing of your personal data is Grupo Ortiz (hereinafter, 'the Responsible'), located at Calle Belisario Domínguez #30, Col. Centro, Morelia, Michoacán, with phone number 443 207 2593."
+    },
+    "sectionII": {
+      "title": "II. PURPOSE OF USE OF YOUR PERSONAL DATA",
+      "content": "The personal data you, as the owner, provide us will be used exclusively for the following purposes: Internal registration and administration of contracted services. Issuance of digital tax receipts (CFDI). Sending communications related to our products and services. Confirmation and verification of your identity. Addressing information requests, clarifications, and complaints."
+    },
+    "sectionIII": {
+      "title": "III. INFORMATION COLLECTED",
+      "content": "To carry out the described purposes, we may collect the following personal data: Full name, Contact phone number and/or WhatsApp, Email address, Fiscal address (in case of CFDI issuance), Contact information of a reference or authorized family member. The use of the provided data will be limited to fulfilling the requested services and the purposes described in this notice, without needing to request your consent again."
+    },
+    "sectionIV": {
+      "title": "IV. MEANS OF OBTAINING",
+      "content": "Personal data will be collected through: Online forms on our website and social media. By phone, email, or messaging applications such as WhatsApp, with your express consent."
+    },
+    "sectionV": {
+      "title": "V. LIMITATION ON THE USE AND DISCLOSURE OF YOUR DATA",
+      "content": "Grupo Ortiz has the necessary technical and human resources to ensure the protection of your personal data, preventing its loss, alteration, or misuse. We will only share your data with competent authorities when required by law. You have the right to limit the use and disclosure of your personal data by sending your request to: atencionalcliente@grupo-ortiz.com."
+    },
+    "sectionVI": {
+      "title": "VI. ARCO RIGHTS (Access, Rectification, Cancellation, and Opposition)",
+      "content": "As the owner of personal data, you have the right to: Access your personal data we possess. Request the rectification of your data if it is inaccurate or incomplete. Request the cancellation of your data when you believe it is not being used according to the established terms. Oppose the processing of your personal data for specific purposes. To exercise any of these rights, you must send your request to atencionalcliente@grupo-ortiz.com, including: Full name of the owner and a means to communicate the response. Documents proving your identity. Clear and precise description of the personal data on which you seek to exercise your rights. You will receive a response within a maximum period of 20 business days."
+    },
+    "sectionVII": {
+      "title": "VII. REVOCATION OF CONSENT",
+      "content": "At any time, you can revoke the consent you have given us for the processing of your personal data by sending your request to: atencionalcliente@grupo-ortiz.com."
+    },
+    "sectionVIII": {
+      "title": "VIII. MODIFICATIONS TO THE PRIVACY NOTICE",
+      "content": "Grupo Ortiz reserves the right to make changes or updates to this privacy notice in response to new legal provisions, internal policies, or changes in our business model. The modifications will be available on our website: www.grupo-ortiz.com."
+    },
+    "sectionIX": {
+      "title": "IX. COMPETENT AUTHORITY",
+      "content": "If you consider that your right to personal data protection has been violated, you may approach the National Institute of Transparency, Access to Information and Protection of Personal Data (INAI).",
+      "content-2": "For any questions or clarifications regarding this notice, you can contact us through the email atencionalcliente@grupo-ortiz.com. Last updated: [November 14, 2024]"
+    }
+  }
+}

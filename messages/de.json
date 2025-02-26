@@ -1,0 +1,247 @@
+{
+    "Navbar": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "social commitment": "Soziale Verantwortung",
+        "go catalog": "GO Katalog",
+        "promos": "Angebote",
+        "be distributor": "Vertriebspartner werden",
+        "contact us": "Kontaktieren Sie uns",
+        "spanish": "Español",
+        "english": "English",
+        "portugues":"Portugués",
+        "aleman": "Deutsch",
+        "arabe": "العربية",
+        "mandarin":"普通话",
+        "conect": "Mit uns in Kontakt treten",
+         "legend": "WIR SIND DER GRÖSSTE HERSTELLER LATEINAMERIKAS",
+        "language": "Sprache"
+    },
+    "Hero": {
+        "hero-title-1": "WIR SIND DIE",
+        "hero-title-2": "GRÖSSTE",
+        "hero-title-3": "HERSTELLER IN",
+        "hero-title-4": "LATINAMERIKA"
+    },
+    "Services": {
+        "arpillas": "Netztaschen",
+        "bolsa": "Tasche",
+        "cuerdas": "Seile",
+        "deshechables": "Einwegprodukte",
+        "esquineros": "Eckenprotektoren",
+        "fleje": "Bänder",
+        "flexibles": "Flexible Verpackungen",
+        "rafia": "Raffia",
+        "sacos": "Gewebte Taschen",
+        "stretch": "Stretchfolie",
+        "prox": "Demnächst",
+        "contact us": "Kontaktieren Sie uns",
+        "contactoMich": "Michoacán Kontakt",
+        "contactoNL": "Nuevo León Kontakt"
+    },
+    "Quote": {
+        "Quote-1": "220.000 TONNEN",
+        "Quote-2": "JÄHRLICH"
+    },
+    "Distribuidor": {
+        "h3-p1": "WERDEN SIE",
+        "h3-p2": "DISTRIBUTOR",
+        "cta": "Mehr erfahren",
+        "cta-p": "Wir bieten eine breite Palette von Produkten, um die Bedürfnisse verschiedener Sektoren wie Landwirtschaft, Industrie, Bauwesen, Hardware und mehr zu decken.",
+        "span-1": "Wir sind der größte Hersteller in Lateinamerika",
+        "span-2": "Sichere und überwachte Lieferung weltweit",
+        "span-3-1": "10 Produktionsstätten in Morelia",
+        "span-3-2": "Michoacán und Monterrey, Nuevo León"
+    },
+    "Number": {
+        "span-1": "LOGISTIK",
+        "span-2": "EINHEITEN"
+    },
+    "Footer": {
+        "acerca de": "Über Grupo Ortiz",
+        "responsabilidad": "Soziale Verantwortung",
+        "reserved": "Alle Rechte vorbehalten.",
+        "ser-dist": "Vertriebspartner werden",
+        "att-client": "Kundendienst",
+        "catalog": "Katalog",
+        "terms": "Allgemeine Geschäftsbedingungen",
+        "privacy": "Datenschutz",
+        "promos": "Angebote",
+        "datasheet": "Datenblätter",
+        "soporte": "Unterstützung",
+        "garantias": "Garantie"
+    },
+    "About-page": {
+    "h1-1": "Wer",
+    "h1-2": "wir sind",
+    "p": "Wir sind ein mexikanisches Unternehmen mit 6 Divisionen: Netze, Seile, Flexibles, Raffia, Säcke, Stretchfolie und Kantenschutz. Wir wachsen ständig mit neuen Produkten in der Entwicklung.",
+    "link": "UNSERE KATALOGE",
+    "item-1": "Lieferung in 24 Stunden.",
+    "item-2": "25.000 Tonnen Lagerbestand.",
+    "item-3": "Über 4.000 Mitarbeiter.",
+    "item-4": "Jahre Erfahrung.",
+    "link1-1": "Erfahren Sie alles über unsere",
+  "link1-2": "Kataloge",
+  "link2-1": "Kontaktieren Sie uns",
+  "link2-2": "und wachsen wir gemeinsam!"
+  },
+    "Data": {
+        "data-1": "4 Sackproduktionsstätten",
+        "data-2": "2 Taschenproduktionsstätten",
+        "data-3": "1 Seil- und Raffiaproduktionsstätte",
+        "data-4": "2 Stretchfolien-Produktionsstätten",
+        "data-5": "1 Flexible Verpackungsproduktionsstätte",
+        "data-6": "1 Recyclinganlage",
+        "data-7": "3 Eckenprotektor-Anlagen",
+        "data-8": "1 Umreifungsanlage",
+        "data-9": "1 Einwegprodukte-Produktionsstätte",
+        "data-10": "1 Taschenproduktionsstätte"
+    },
+    "Map": {
+        "span-1": "Mit strategischen Standorten in Morelia, Michoacán und Monterrey, Nuevo León, decken wir sowohl nationale als auch internationale Märkte ab.",
+        "span-2": "Wir exportieren unsere Produkte nach Amerika und Europa."
+    },
+    "Impacto-social": {
+    "h2-1": "SOZIALER",
+    "h2-2": "IMPAKT",
+    "span": "Bei Grupo Ortiz glauben wir an eine bessere Welt. Wir unterstützen Familien, stärken Frauen, geben zweite Chancen und kümmern uns um den Planeten. Jeder Schritt, den wir tun, zielt darauf ab, Leben zu verändern und eine hoffnungsvolle Zukunft aufzubauen.",
+    "inic-1": "Haus der Hoffnung",
+  "p-1": "Unterstützung eines Kinderheims in Tacámbaro, Michoacán. Denn jedes Kind verdient ein Zuhause voller Liebe und Möglichkeiten, mit Würde aufzuwachsen.",
+  "inic-2": "Null Fußabdruck",
+  "p-2": "Null-Abfall-Politik. Abfälle in Chancen verwandeln für einen saubereren und nachhaltigeren Planeten.",
+  "inic-3": "Lebendige Kompostierung",
+  "p-3": "Herstellung von kompostierbaren Produkten. Innovation, die die Natur respektiert und eine grünere Zukunft für alle schafft.",
+  "inic-4": "GO Glänzt",
+  "p-4": "Belohnungen für die Leistung des GO-Teams. Anerkennung der Bemühungen, die den Funken unseres gemeinsamen Erfolgs entzünden.",
+  "inic-5": "Führende Hände",
+  "p-5": "97 % weibliche Belegschaft. Stärkung von Frauen, die Tag für Tag eine Zukunft voller Möglichkeiten aufbauen.",
+  "inic-6": "Resozialisierung von Gefangenen",
+  "p-6": "Resozialisierung von Gefangenen, die bei GO aus dem Gefängnis arbeiten. Schaffung von Wegen zur Wiedergutmachung und Hoffnung für diejenigen, die ihr Leben neu aufbauen wollen.",
+  "inic-7": "GO Lebensmittelhilfe: Gemeinsam für die Gemeinschaft",
+  "p-7": "Verteilung von Lebensmittelpaketen an das GO-Team. Wir reichen unseren Mitarbeitern eine helfende Hand und teilen, was wir mit Liebe haben.",
+    "ocean-1": "ENGAGIERT FÜR EINEN",
+    "ocean-2": "PLASTIKFREIEN OZEAN",
+    "ocean-p": "Bei Grupo Ortiz glauben wir an eine Welt, in der die Ozeane wieder erstrahlen können. Durch die Unterstützung globaler Initiativen wie The Ocean Cleanup und dem Tom Ford Plastic Innovation Prize, unterstützt von Lonely Whale, arbeiten wir daran, Plastik aus unseren Meeren zu reduzieren. Jeder Kauf bei uns ist ein Schritt zu einem saubereren Planeten und einer nachhaltigen Zukunft für alle. Gemeinsam retten wir die Ozeane!",
+    "ocean-1-sm": "Engagiert für eine",
+    "ocean-2-sm": "sauberere Zukunft",
+    "ocean-3-sm": "für unsere Ozeane",
+    "icon-title-1": "Wir unterstützen globale Reinigungsinitiativen",
+    "icon-subtitle-1": "Zusammenarbeit mit Initiativen wie The Ocean Cleanup",
+    "icon-title-2": "Wir fördern nachhaltige Innovationen",
+    "icon-subtitle-2": "Durch Programme wie den Tom Ford Plastic Innovation Prize.",
+    "icon-title-3": "Wir fördern verantwortungsvolle Produkte",
+    "icon-subtitle-3": "die die Umweltbelastung der Ozeane reduzieren.",
+    "icon-title-4": "Wir inspirieren kollektive Aktionen",
+    "icon-subtitle-4": "und laden Kunden und Partner ein, Teil des Wandels zu sein.",
+    "tom-ford-p": "Diese globale Initiative zielt darauf ab, die Plastikindustrie zu revolutionieren, indem sie innovative Lösungen auszeichnet und fördert, die Einwegplastik ersetzen. Der Fokus liegt auf nachhaltigen und skalierbaren Alternativen, die die Umweltbelastung reduzieren, die Ozeane schützen und den Wandel hin zu verantwortungsvolleren Materialien für unseren Planeten fördern.",
+    "know-more": "MEHR ERFAHREN",
+    "ocean-clean-p": "Diese Organisation widmet sich der Reinigung der Weltmeere, entwickelt fortschrittliche Technologien zur Beseitigung angesammelter Plastikabfälle und verhindert deren Eintrag durch Interventionen in Flüsse, die Hauptquellen der Verschmutzung. Ihre Mission ist es, die Gesundheit der marinen Ökosysteme wiederherzustellen, die Artenvielfalt zu schützen und eine saubere Zukunft für kommende Generationen zu sichern."
+  },
+    "ser-distribuidor": {
+    "h2-1": "ICH MÖCHTE",
+    "h2-2": "DISTRIBUTOR SEIN",
+    "form-title": "Kontaktieren Sie uns",
+    "form-subtitle": "Wir möchten von Ihnen hören",
+    "phone": "Telefonnummer",
+    "mail": "E-Mail",
+    "socials": "Soziale Netzwerke",
+    "location": "Firmenadresse",
+    "h3-1": "Vorteile eines",
+    "h3-2": "Distributors",
+    "benefit-1": "Tonnen an Lagerbestand",
+    "benefit-2": "Lieferung in 24 Stunden",
+    "benefit-3": "Kredit",
+    "benefit-4": "Garantierter Preis",
+    "benefit-5": "Logistik",
+    "adress": "Calle Belisario Domínguez #30, Col. Centro Morelia, Mich",
+    "follow-us": "Folgen Sie uns"
+  },
+    "Distribuidor-quote": {
+        "Quote": "Werden Sie Distributor und lassen Sie uns gemeinsam wachsen."
+    },
+    "Form": {
+        "aviso": "Alle Felder sind erforderlich*",
+        "name": "Vollständiger Name*",
+        "phone": "Kontaktmobilnummer*",
+        "phone-2": "Festnetznummer*",
+        "location": "Adresse*",
+        "city": "Stadt oder Gemeinde*",
+        "state": "Bundesland*",
+        "zipcode": "Postleitzahl*",
+        "coments": "Kommentare",
+        "priv-1": "Bitte lesen Sie unsere",
+        "priv-2": "Datenschutzerklärung",
+        "legend": "Ich habe das Datenschutzgesetz gelesen und akzeptiere es",
+        "send": "Senden",
+        "sending": "Wird gesendet...",
+        "country": "Land",
+        "select-country": "Land auswählen",
+        "area-code": "Vorwahl"
+    },
+    "Catalogos": {
+        "h1-1": "GO",
+        "h1-2": "KATALOGE",
+        "h2-1": "Allgemeiner Katalog",
+        "arpillas": "Netztasche",
+        "bolsa": "Tasche",
+        "cuerdas": "Seil",
+        "deshechables": "Einwegprodukte",
+        "esquineros": "Eckenprotektoren",
+        "fleje": "Bänder",
+        "flexibles": "Flexible Verpackungen",
+        "rafia": "Schnur",
+        "sacos": "Gewebte Tasche",
+        "stretch": "Stretchfolie"
+    },
+    "Promos": {
+        "h1-1": "ANGEBOTE",
+        "desc-1": "33 USD pro KG in farbiger Stretchfolie",
+        "cond-1": "Gültig solange der Vorrat reicht*",
+        "desc-2": "33 USD pro KG in farbiger Stretchfolie",
+        "cond-2": "Gültig solange der Vorrat reicht*"
+    },
+    "AvisoPriv": {
+    "h1-1": "Datenschutz",
+    "h1-2": "Hinweis",
+    "p1": "Für Grupo Ortiz sind Ihre Privatsphäre und Ihr Vertrauen von größter Bedeutung. Im Rahmen unseres Engagements setzen wir gesetzliche und Sicherheitsmaßnahmen um, um Ihre persönlichen Daten gemäß dem Bundesgesetz zum Schutz personenbezogener Daten im Besitz von Privatpersonen zu schützen, das am 5. Juli 2010 im Amtsblatt veröffentlicht wurde, sowie dessen Verordnungen und die Richtlinien zur Datenschutzerklärung. Dieses Dokument zielt darauf ab, die rechtmäßige, kontrollierte und informierte Nutzung der von Ihnen bereitgestellten personenbezogenen Daten zu regulieren und Ihre Privatsphäre zu gewährleisten.",
+    "p2": "Bitte lesen Sie die folgenden Informationen sorgfältig durch:",
+    "sectionI": {
+        "title": "I. VERANTWORTLICHER FÜR DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN",
+        "content": "Verantwortlich für die Verarbeitung Ihrer personenbezogenen Daten ist Grupo Ortiz (im Folgenden 'der Verantwortliche'), mit Sitz in Calle Belisario Domínguez #30, Col. Centro, Morelia, Michoacán, und Telefonnummer 443 207 2593."
+    },
+    "sectionII": {
+        "title": "II. ZWECK DER NUTZUNG IHRER PERSONENBEZOGENEN DATEN",
+        "content": "Die personenbezogenen Daten, die Sie uns als Eigentümer zur Verfügung stellen, werden ausschließlich für folgende Zwecke verwendet: Interne Registrierung und Verwaltung der beauftragten Dienstleistungen. Ausstellung digitaler Steuerbelege (CFDI). Versand von Mitteilungen im Zusammenhang mit unseren Produkten und Dienstleistungen. Bestätigung und Überprüfung Ihrer Identität. Bearbeitung von Informationsanfragen, Klarstellungen und Beschwerden."
+    },
+    "sectionIII": {
+        "title": "III. ERHOBENE INFORMATIONEN",
+        "content": "Um die beschriebenen Zwecke zu erfüllen, können wir folgende personenbezogene Daten erfassen: Vollständiger Name, Telefonnummer und/oder WhatsApp, E-Mail-Adresse, Steueradresse (im Falle der Ausstellung eines CFDI), Kontaktdaten eines autorisierten Referenz- oder Familienmitglieds. Die Nutzung der bereitgestellten Daten wird auf die Erfüllung der angeforderten Dienstleistungen und die in dieser Erklärung beschriebenen Zwecke beschränkt, ohne dass erneut Ihre Zustimmung eingeholt werden muss."
+    },
+    "sectionIV": {
+        "title": "IV. ERHEBUNGSMETHODEN",
+        "content": "Personenbezogene Daten werden über folgende Wege erhoben: Online-Formulare auf unserer Website und sozialen Netzwerken. Telefonisch, per E-Mail oder über Messaging-Anwendungen wie WhatsApp, mit Ihrer ausdrücklichen Zustimmung."
+    },
+    "sectionV": {
+        "title": "V. EINSCHRÄNKUNG DER NUTZUNG UND OFFENLEGUNG IHRER DATEN",
+        "content": "Grupo Ortiz verfügt über die notwendigen technischen und personellen Ressourcen, um den Schutz Ihrer personenbezogenen Daten zu gewährleisten und deren Verlust, Veränderung oder Missbrauch zu verhindern. Wir geben Ihre Daten nur an zuständige Behörden weiter, wenn dies gesetzlich vorgeschrieben ist. Sie haben das Recht, die Nutzung und Offenlegung Ihrer personenbezogenen Daten zu beschränken, indem Sie Ihre Anfrage an: atencionalcliente@grupo-ortiz.com senden."
+    },
+    "sectionVI": {
+        "title": "VI. ARCO-RECHTE (Zugriff, Berichtigung, Löschung und Widerspruch)",
+        "content": "Als Inhaber personenbezogener Daten haben Sie das Recht auf: Zugang zu Ihren personenbezogenen Daten, die wir besitzen. Berichtigung Ihrer Daten, wenn diese ungenau oder unvollständig sind. Löschung Ihrer Daten, wenn Sie der Meinung sind, dass diese nicht gemäß den festgelegten Bedingungen genutzt werden. Widerspruch gegen die Verarbeitung Ihrer personenbezogenen Daten für bestimmte Zwecke. Um eines dieser Rechte auszuüben, müssen Sie Ihre Anfrage an atencionalcliente@grupo-ortiz.com senden und Folgendes angeben: Vollständiger Name des Inhabers und ein Kommunikationsweg für die Antwort. Dokumente, die Ihre Identität nachweisen. Klare und präzise Beschreibung der personenbezogenen Daten, auf die Sie Ihre Rechte ausüben möchten. Sie erhalten eine Antwort innerhalb von maximal 20 Arbeitstagen."
+    },
+    "sectionVII": {
+        "title": "VII. WIDERRUF DER ZUSTIMMUNG",
+        "content": "Sie können jederzeit die Zustimmung widerrufen, die Sie uns für die Verarbeitung Ihrer personenbezogenen Daten gegeben haben, indem Sie Ihre Anfrage an: atencionalcliente@grupo-ortiz.com senden."
+    },
+    "sectionVIII": {
+        "title": "VIII. ÄNDERUNGEN DER DATENSCHUTZERKLÄRUNG",
+        "content": "Grupo Ortiz behält sich das Recht vor, Änderungen oder Aktualisierungen dieser Datenschutzerklärung vorzunehmen, um neuen gesetzlichen Bestimmungen, internen Richtlinien oder Änderungen unseres Geschäftsmodells zu entsprechen. Die Änderungen werden auf unserer Website verfügbar sein: www.grupo-ortiz.com."
+    },
+    "sectionIX": {
+        "title": "IX. ZUSTÄNDIGE BEHÖRDE",
+        "content": "Falls Sie der Meinung sind, dass Ihr Recht auf Datenschutz verletzt wurde, können Sie sich an das Nationale Institut für Transparenz, Zugang zu Informationen und Datenschutz (INAI) wenden.",
+        "content-2": "Für Fragen oder Klärungen zu dieser Erklärung können Sie uns per E-Mail unter atencionalcliente@grupo-ortiz.com kontaktieren. Letzte Aktualisierung: [14. November 2024]"
+    }
+}
+
+}

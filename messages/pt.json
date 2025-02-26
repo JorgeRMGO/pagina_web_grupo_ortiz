@@ -1,0 +1,246 @@
+{
+  "Navbar": {
+    "home": "Início",
+    "about": "Quem Somos",
+    "social commitment": "Compromisso Social",
+    "go catalog": "Catálogo GO",
+    "promos": "Promoções",
+    "be distributor": "Quero ser Distribuidor",
+    "contact us": "Contate-nos",
+    "spanish": "Español",
+    "english": "English",
+    "portugues": "Portugués",
+    "aleman": "Deutsch",
+    "arabe": "العربية",
+    "mandarin": "普通话",
+    "conect": "Vamos Conectar",
+    "legend": "SOMOS O MAIOR FABRICANTE DA AMÉRICA LATINA",
+    "language": "Idioma"
+  },
+  "Hero": {
+    "hero-title-1": "SOMOS O MAIOR",
+    "hero-title-2": "FABRICANTE",
+    "hero-title-3": "DA",
+    "hero-title-4": "AMÉRICA LATINA"
+  },
+  "Services": {
+    "arpillas": "Sacarias",
+    "bolsa": "Bolsa",
+    "cuerdas": "Cordas",
+    "deshechables": "Descartáveis",
+    "esquineros": "Protetores de Bordas",
+    "fleje": "Fita",
+    "flexibles": "Embalagens Flexíveis",
+    "rafia": "Ráfia",
+    "sacos": "Sacos",
+    "stretch": "Filme Stretch",
+    "prox": "Em breve",
+    "contact us": "Contate-nos",
+    "contactoMich": "Contato Michoacán",
+    "contactoNL": "Contato Nuevo León"
+  },
+  "Quote": {
+    "Quote-1": "220 MIL TONELADAS",
+    "Quote-2": "ANUAIS"
+  },
+  "Distribuidor": {
+    "h3-p1": "SEJA UM",
+    "h3-p2": "DISTRIBUIDOR",
+    "cta": "Saiba Mais",
+    "cta-p": "Oferecemos uma ampla gama de produtos para atender às necessidades de diversos setores: agrícola, industrial, construção, ferragens, entre outros.",
+    "span-1": "Somos o maior fabricante da América Latina",
+    "span-2": "Envios seguros e monitorados para todo o mundo",
+    "span-3-1": "10 plantas de produção em Morelia",
+    "span-3-2": "Michoacán e Monterrey, Nuevo León"
+  },
+  "Number": {
+    "span-1": "UNIDADES DE",
+    "span-2": "LOGÍSTICA"
+  },
+  "Footer": {
+    "acerca de": "Sobre o Grupo Ortiz",
+    "responsabilidad": "Responsabilidade Social",
+    "reserved": "Todos os direitos reservados.",
+    "ser-dist": "Ser Distribuidor",
+    "att-client": "Atendimento ao Cliente",
+    "catalog": "Catálogo",
+    "terms": "Termos e Condições",
+    "privacy": "Política de Privacidade",
+    "promos": "Promoções",
+    "datasheet": "Fichas Técnicas",
+    "soporte": "Suporte",
+    "garantias": "Garantias"
+  },
+  "About-page": {
+    "h1-1": "Quem",
+    "h1-2": "somos",
+    "p": "Somos uma empresa mexicana com 6 divisões: sacolas de rede, corda, materiais flexíveis, ráfia, sacos, filme stretch e protetores de borda. Estamos em constante crescimento com novos produtos em desenvolvimento.",
+    "link": "NOSSOS CATÁLOGOS",
+    "item-1": "Entrega em 24 horas.",
+    "item-2": "25 mil toneladas de estoque.",
+    "item-3": "Mais de 4.000 funcionários.",
+    "item-4": "Anos de experiência.",
+    "link1-1": "Conheça todos os nossos",
+    "link1-2": "catálogos",
+    "link2-1": "Entre em contato conosco",
+    "link2-2": "e vamos crescer juntos!"
+  },
+  "Data": {
+    "data-1": "4 plantas de produção de sacos",
+    "data-2": "2 plantas de produção de sacarias",
+    "data-3": "1 planta de produção de cordas e ráfia",
+    "data-4": "2 plantas de produção de filme stretch",
+    "data-5": "1 planta de produção de embalagens flexíveis",
+    "data-6": "1 planta de reciclagem",
+    "data-7": "3 plantas de protetores de bordas",
+    "data-8": "1 planta de fita",
+    "data-9": "1 planta de descartáveis",
+    "data-10": "1 planta de produção de bolsas"
+  },
+  "Map": {
+    "span-1": "Com localizações estratégicas em Morelia, Michoacán, e Monterrey, Nuevo León, atendendo o mercado nacional e internacional.",
+    "span-2": "Exportamos nossos produtos por toda a América e Europa."
+  },
+  "Impacto-social": {
+    "h2-1": "IMPACTO",
+    "h2-2": "SOCIAL",
+    "span": "No Grupo Ortiz, acreditamos em um mundo melhor. Apoiamo lares, empoderamos mulheres, damos segundas oportunidades e cuidamos do planeta. Cada passo que damos busca transformar vidas e construir um futuro cheio de esperança.",
+    "inic-1": "Lar da Esperança",
+    "p-1": "Apoio a um lar de crianças em Tacámbaro, Michoacán. Porque toda criança merece um lar cheio de amor e oportunidades para crescer com dignidade.",
+    "inic-2": "Zero Pegada",
+    "p-2": "Política de desperdício zero. Transformando resíduos em oportunidades para um planeta mais limpo e sustentável.",
+    "inic-3": "Composto Vivo",
+    "p-3": "Fabricação de produtos compostáveis. Inovação que respeita a natureza e cultiva um futuro mais verde para todos.",
+    "inic-4": "GO Brilha",
+    "p-4": "Presentes por desempenho para a equipe GO. Reconhecendo o esforço que acende a chama do nosso sucesso compartilhado.",
+    "inic-5": "Mãos que Lideram",
+    "p-5": "Equipe 97% feminina. Empoderando mulheres que constroem, dia após dia, um futuro cheio de possibilidades.",
+    "inic-6": "Reintegração de Detentos",
+    "p-6": "Reintegração de detentos trabalhando na GO desde a prisão. Criando caminhos de redenção e esperança para aqueles que buscam reconstruir suas vidas.",
+    "inic-7": "GO Despensa: Unidos pela Comunidade",
+    "p-7": "Entrega de cestas básicas à equipe GO. Estendemos uma mão solidária, começando com nossos colaboradores, compartilhando o que temos com amor.",
+    "ocean-1": "COMPROMETIDOS COM UM",
+    "ocean-2": "OCEANO SEM PLÁSTICO",
+    "ocean-p": "No Grupo Ortiz, acreditamos em um mundo onde os oceanos possam brilhar novamente. Ao apoiar iniciativas globais como The Ocean Cleanup e o Tom Ford Plastic Innovation Prize, promovido pela Lonely Whale, trabalhamos para reduzir o plástico em nossos mares. Cada compra feita conosco é um passo para um planeta mais limpo e um futuro sustentável para todos. Juntos, salvamos os oceanos!",
+    "ocean-1-sm": "Comprometidos com um futuro",
+    "ocean-2-sm": "mais limpo para",
+    "ocean-3-sm": "os nossos oceanos",
+    "icon-title-1": "Apoiamos limpezas globais",
+    "icon-subtitle-1": "Colaborando com iniciativas como The Ocean Cleanup",
+    "icon-title-2": "Promovemos inovação sustentável",
+    "icon-subtitle-2": "Por meio de programas como o Tom Ford Plastic Innovation Prize.",
+    "icon-title-3": "Incentivamos produtos responsáveis",
+    "icon-subtitle-3": "que reduzem o impacto ambiental nos oceanos.",
+    "icon-title-4": "Inspiramos ação coletiva",
+    "icon-subtitle-4": "convidando clientes e parceiros a fazer parte da mudança para um planeta mais limpo.",
+    "tom-ford-p": "Esta iniciativa global busca revolucionar a indústria do plástico ao premiar e promover soluções inovadoras que substituam plásticos descartáveis. O foco está em alternativas sustentáveis e escaláveis que reduzam o impacto ambiental, protejam os oceanos e promovam uma mudança para materiais mais responsáveis para o planeta.",
+    "know-more": "SAIBA MAIS",
+    "ocean-clean-p": "Dedicada à limpeza dos oceanos do mundo, esta organização desenvolve tecnologias avançadas para remover plásticos acumulados nos mares e prevenir sua chegada por meio da intervenção em rios, as principais fontes de poluição. Sua missão é restaurar a saúde dos ecossistemas marinhos, proteger a biodiversidade e garantir um futuro limpo para as próximas gerações."
+  },
+  "ser-distribuidor": {
+    "h2-1": "QUERO SER",
+    "h2-2": "UM DISTRIBUIDOR",
+    "form-title": "Entre em contato",
+    "form-subtitle": "Queremos saber de você",
+    "phone": "Número de telefone",
+    "mail": "Email",
+    "socials": "Redes sociais",
+    "location": "Endereço corporativo",
+    "h3-1": "Benefícios de um",
+    "h3-2": "Distribuidor",
+    "benefit-1": "Toneladas de estoque",
+    "benefit-2": "Entrega em 24 horas",
+    "benefit-3": "Crédito",
+    "benefit-4": "Preço Garantido",
+    "benefit-5": "Logística",
+    "adress": "Calle Belisario Domínguez #30, Col. Centro Morelia, Mich",
+    "follow-us": "Siga-nos"
+  },
+  "Distribuidor-quote": {
+    "Quote": "JUNTE-SE COMO DISTRIBUIDOR E CRESÇAMOS JUNTOS."
+  },
+  "Form": {
+    "aviso": "Todos os campos são obrigatórios*",
+    "name": "Nome completo*",
+    "phone": "Celular para contato*",
+    "phone-2": "Telefone fixo*",
+    "location": "Endereço*",
+    "city": "Cidade ou município*",
+    "state": "Estado*",
+    "zipcode": "Código postal*",
+    "coments": "Comentários",
+    "priv-1": "Consulte o nosso",
+    "priv-2": "Aviso de Privacidade",
+    "legend": "Li e aceito a lei de proteção de dados",
+    "send": "Enviar",
+    "sending": "Enviando",
+    "country": "Pais",
+    "select-country": "Seleccionar País",
+    "area-code": "Lada"
+  },
+  "Catalogos": {
+    "h1-1": "CATÁLOGOS",
+    "h1-2": "GO",
+    "h2-1": "Catálogo Geral",
+    "arpillas": "Saco de Malha",
+    "bolsa": "Saco",
+    "cuerdas": "Corda",
+    "deshechables": "Descartáveis",
+    "esquineros": "Protetores de Bordas",
+    "fleje": "Fita de Amarração",
+    "flexibles": "Embalagens Flexíveis",
+    "rafia": "Ráfia",
+    "sacos": "Saco Tecido",
+    "stretch": "Filme Stretch"
+  },
+  "Promos": {
+    "h1-1": "PROMOÇÕES",
+    "desc-1": "$33 MXN POR KG EM STRETCH COLORIDO",
+    "cond-1": "Válido até o fim do estoque*",
+    "desc-2": "$33 MXN POR KG EM STRETCH COLORIDO",
+    "cond-2": "Válido até o fim do estoque*"
+  },
+  "AvisoPriv": {
+    "h1-1": "Aviso de",
+    "h1-2": "Privacidade",
+    "p1": "Para o Grupo Ortiz, sua privacidade e confiança são de extrema importância. Como parte de nosso compromisso, implementamos medidas legais e de segurança para proteger seus dados pessoais de acordo com a Lei Federal de Proteção de Dados Pessoais em Posse dos Particulares, publicada no Diário Oficial da Federação em 5 de julho de 2010, bem como seu Regulamento e as Diretrizes do Aviso de Privacidade. Este documento visa regular o uso legítimo, controlado e informado dos dados pessoais que você nos fornecer, garantindo sua privacidade.",
+    "p2": "Solicitamos que leia atentamente as seguintes informações:",
+    "sectionI": {
+      "title": "I. RESPONSÁVEL PELO TRATAMENTO DOS SEUS DADOS PESSOAIS",
+      "content": "O responsável pelo tratamento dos seus dados pessoais é o Grupo Ortiz (doravante, 'o Responsável'), com sede na Calle Belisario Domínguez #30, Col. Centro, Morelia, Michoacán, e telefone 443 207 2593."
+    },
+    "sectionII": {
+      "title": "II. FINALIDADE DO USO DOS SEUS DADOS PESSOAIS",
+      "content": "Os dados pessoais que você, como titular, nos fornecer serão utilizados exclusivamente para os seguintes fins: Registro interno e administração de serviços contratados. Emissão de recibos fiscais digitais (CFDI). Envio de comunicações relacionadas aos nossos produtos e serviços. Confirmação e verificação de sua identidade. Atendimento a pedidos de informações, esclarecimentos e reclamações."
+    },
+    "sectionIII": {
+      "title": "III. INFORMAÇÃO QUE É COLETADA",
+      "content": "Para realizar as finalidades descritas, poderemos coletar os seguintes dados pessoais: Nome completo, Telefone de contato e/ou WhatsApp, Endereço de e-mail, Endereço fiscal (em caso de emissão de CFDI), Dados de contato de referência ou familiar autorizado. O uso dos dados fornecidos será limitado ao cumprimento dos serviços solicitados e às finalidades descritas neste aviso, sem necessidade de solicitar seu consentimento novamente."
+    },
+    "sectionIV": {
+      "title": "IV. MEIOS DE OBTENÇÃO",
+      "content": "Os dados pessoais serão coletados por meio de: Formulários online em nosso site e redes sociais. Por telefone, e-mail ou aplicativos de mensagens, como WhatsApp, com seu consentimento expresso."
+    },
+    "sectionV": {
+      "title": "V. LIMITAÇÃO DO USO E DIVULGAÇÃO DOS SEUS DADOS",
+      "content": "O Grupo Ortiz possui os recursos técnicos e humanos necessários para garantir a proteção dos seus dados pessoais, evitando sua perda, alteração ou uso indevido. Compartilharemos seus dados apenas com autoridades competentes quando exigido por lei. Você tem o direito de limitar o uso e divulgação dos seus dados pessoais, enviando sua solicitação para: atencionalcliente@grupo-ortiz.com."
+    },
+    "sectionVI": {
+      "title": "VI. DIREITOS ARCO (Acesso, Retificação, Cancelamento e Oposição)",
+      "content": "Como titular dos dados pessoais, você tem o direito de: Acessar seus dados pessoais que possuímos. Solicitar a retificação dos seus dados se estiverem inexatos ou incompletos. Solicitar o cancelamento dos seus dados quando considerar que não estão sendo utilizados conforme estabelecido. Opor-se ao tratamento dos seus dados pessoais para fins específicos. Para exercer qualquer um desses direitos, você deverá enviar sua solicitação para o e-mail atencionalcliente@grupo-ortiz.com, incluindo: Nome completo do titular e um meio para comunicar a resposta. Documentos que comprovem sua identidade. Descrição clara e precisa dos dados pessoais sobre os quais busca exercer seus direitos. Você receberá uma resposta em até 20 dias úteis."
+    },
+    "sectionVII": {
+      "title": "VII. REVOGAÇÃO DO CONSENTIMENTO",
+      "content": "A qualquer momento, você pode revogar o consentimento que nos deu para o tratamento dos seus dados pessoais, enviando sua solicitação para: atencionalcliente@grupo-ortiz.com."
+    },
+    "sectionVIII": {
+      "title": "VIII. MODIFICAÇÕES AO AVISO DE PRIVACIDADE",
+      "content": "O Grupo Ortiz reserva-se o direito de realizar alterações ou atualizações neste aviso de privacidade, em resposta a novas disposições legais, políticas internas ou mudanças no nosso modelo de negócios. As modificações estarão disponíveis no nosso site: www.grupo-ortiz.com."
+    },
+    "sectionIX": {
+      "title": "IX. AUTORIDADE COMPETENTE",
+      "content": "Caso considere que seu direito à proteção de dados pessoais foi violado, você pode recorrer ao Instituto Nacional de Transparência, Acesso à Informação e Proteção de Dados Pessoais (INAI).",
+      "content-2": "Para qualquer dúvida ou esclarecimento sobre este aviso, você pode entrar em contato conosco através do e-mail atencionalcliente@grupo-ortiz.com. Última atualização: [14 de novembro de 2024]"
+    }
+  }
+}

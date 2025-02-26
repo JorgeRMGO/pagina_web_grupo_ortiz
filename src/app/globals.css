@@ -1,0 +1,112 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Helony';
+    font-style: normal;
+    src: url(/fonts/Helony.otf) format('otf');
+  }
+
+  @font-face {
+    font-family: 'SF-Pro-Expanded';
+    font-style: normal;
+    font-stretch: expanded;
+    src: url('/fonts/SF-Pro.ttf') format('truetype');
+  }
+}
+
+:root {
+  --background: #262626;
+  --foreground: #f2f1ec;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities{
+  .scroll-animation {
+    animation-timeline: scroll();
+  }
+  .clip-slice {
+  clip-path: polygon(50% 50%, 100% 0, 100% 100%);
+}
+.clip-diagonal{
+  clip-path: polygon(4.5vw 1%, 100% 0%, 100% 100%, -2vw 100%);
+}
+
+.clip-diagonal-md{
+  clip-path: polygon(8% 1%, 100% 0%, 100% 100%, -2% 100%);
+}
+
+.clip-diagonal-sm{
+  clip-path: polygon(10% 1%, 100% 0%, 100% 100%, -4% 100%);
+}
+.font-expanded {
+  font-family: 'SF-Pro-Expanded';
+}
+
+.circulo::after {
+  content: "";
+  position: absolute;
+  width: 16vw;  /* Tamaño del hueco */
+  height: 16vw;
+  background-color: var(--foreground);/* Color del hueco */
+  border-radius: 50%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+}
+
+.bg-change:hover {
+  background-image: url('/assets/ruleta/24hrs_complete.png');
+  background-size: contain;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.text-stroke-3 {
+  -webkit-text-stroke: 3px var(--foreground);
+}
+
+.text-stroke-1 {
+  -webkit-text-stroke: 1px var(--foreground);
+}
+
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: top;
+  align-items: center;
+  border-radius: none;
+}
+
+.swiper-button-next, .swiper-button-prev{
+  background-color: #262626;
+  width: 10vw !important;
+  height: 10vw !important;
+  border-radius: 100%;
+}
+

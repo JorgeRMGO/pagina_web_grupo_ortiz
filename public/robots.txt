@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+
+# Googlebot
+User-agent: Googlebot
+Allow: /special-page
+
+# Host
+Host: https://grupo-ortiz.com
+
+# Sitemaps
+Sitemap: https://grupo-ortiz.com/sitemap.xml
